@@ -1,0 +1,3 @@
+﻿l_polish:
+ FILE_WRITE_ERROR:1 "Nie udało się utworzyć stanu gry"
+ FILE_WRITE_ERROR_DESC:1 "Gra nie utworzyła stanu gry. Mozliwe powody: \n- Za mało miejsca na dysku\n- Problemy z uprawnieniami do plików\n- Oprogramowanie antywirusowe\n- Uszkodzenie pliku gry\n- Zainstalowane modyfikacje"

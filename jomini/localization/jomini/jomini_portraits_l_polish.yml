@@ -1,0 +1,6 @@
+﻿l_polish:
+ SETTING_ANIMATED_PORTRAITS:0 "Animowane postacie"
+ SETTING_ANIMATED_PORTRAITS_TOOLTIP:0 "#T $SETTING_ANIMATED_PORTRAITS$\n#!Określa, czy widoczne postacie powinny być animowane.\n\nWyłączenie może zwiększyć wydajność."
+ SETTING_PORTRAITS_SSAO:0 "SSAO (Okluzja otoczenia przestrzeni ekranu)"
+ SETTING_PORTRAITS_SSAO_TOOLTIP:0 "#T $SETTING_PORTRAITS_SSAO$\n#!Określa, czy okluzja otoczenia obszaru ekranu powinna być stosowana do portretów. \n\nWyłączenie może zwiększyć wydajność."
+ 
